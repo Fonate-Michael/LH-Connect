@@ -1,0 +1,37 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .logo {
+    font-weight: bold;
+    color: #f74923;
+  }
+  
+  .logo span {
+    color: #333;
+  }
+  
+  .btn-primary {
+    background-color: #f74923;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #d13f1e;
+    transition: 0.3s;
+  }
+  
+  a {
+    color: #f74923;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
